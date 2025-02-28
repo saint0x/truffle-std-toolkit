@@ -1,0 +1,8 @@
+truffle-ai>=0.1.0
+
+# System dependencies (install via package manager):
+# ripgrep (rg) - for efficient code searching
+# Example installation:
+# Ubuntu: apt-get install ripgrep
+# macOS: brew install ripgrep
+# Windows: choco install ripgrep 
