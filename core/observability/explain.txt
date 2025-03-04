@@ -1,0 +1,4 @@
+- this is where we will add 
+endpoints so that truffle can hit 
+its own observability tools 
+to get info about/debug itself
